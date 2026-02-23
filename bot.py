@@ -40,7 +40,7 @@ MESSAGES = {
     "Airdrop1": {
         "text": "# แจ้งเตือน ระบบเปิด Airdrop ให้เข้าเรียบร้อยแล้ว\n**โดนปรับก็ช่างหัวโคตรพ่อมึงโคตรแม่มึงนะครับ ตามหลายเทื่อละ**\n<@&1419750622517006393> <@&1419750622517006394>",
         "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y4eTFvN3d1NXpkbmsxMWFyM2lzeDNrNzkxOXdpejRjcm8xOW02MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1KhjvfXgXcYxS0cuG0/giphy.gif",
-        "times": ["21:01","23:01"],
+        "times": ["22:01","23:01"],
         "color": 0x4682B4,
         "activity": "พร้อมปรับคนที่ขาด Airdrop แล้ว ✅"
     },
