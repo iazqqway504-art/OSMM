@@ -46,7 +46,7 @@ MESSAGES = {
     },
 }
 
-WAITING_ACTIVITY = "Bot By BoonHome"
+WAITING_ACTIVITY = "มื้อนี้ผู้ใหญ่บ้านอกหักเด้อ!!!"
 
 async def set_activity(text=WAITING_ACTIVITY):
     activity = discord.Activity(type=discord.ActivityType.competing, name=text)
